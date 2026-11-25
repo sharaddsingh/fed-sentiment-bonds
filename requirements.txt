@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.24
+matplotlib>=3.7
+requests>=2.28
+beautifulsoup4>=4.12
+yfinance>=0.2.40
+tabulate>=0.9
+pytest>=7.0

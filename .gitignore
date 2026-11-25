@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Market data caches (re-downloaded by run_analysis.py).
+# statements.csv and llm_scores_*.csv ARE committed, so others can
+# reproduce the analysis without an API key.
+data/fred.csv
+data/yahoo.csv
+data/DGS2.csv
+data/DGS10.csv
+data/DFEDTAR.csv
+data/DFEDTARU.csv
+
+# Demo output
+results/_demo/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db

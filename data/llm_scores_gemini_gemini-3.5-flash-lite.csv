@@ -1,0 +1,177 @@
+date,llm_score,llm_reason
+2006-01-31 00:00:00,1,The Committee raised rates by 25 basis points and signaled that further policy firming may still be needed to address inflation pressures.
+2006-03-28 00:00:00,2,The statement announces a 25 basis point rate hike and notes that further policy firming may be needed to address inflation risks.
+2006-05-10 00:00:00,2,The Committee raised rates by 25 basis points and signaled that further policy firming may be needed to address inflation risks.
+2006-06-29 00:00:00,1,The Committee raised rates by 25 basis points and left the door open for further tightening due to lingering inflation risks.
+2006-08-08 00:00:00,1,"The Committee kept rates steady while acknowledging moderating growth, but explicitly noted that lingering inflation risks could still require additional policy firming."
+2006-09-20 00:00:00,1,The statement holds rates steady while explicitly noting that some inflation risks remain and additional firming may still be needed.
+2006-10-25 00:00:00,2,Rates were held steady while acknowledging elevated inflation and leaving the door open to further tightening if risks persist.
+2006-12-12 00:00:00,2,The statement maintains a restrictive policy rate while explicitly acknowledging ongoing inflation risks and leaving the door open for potential future tightening.
+2007-01-31 00:00:00,1,"The stance is slightly hawkish, as rates are held steady at a restrictive level while noting firming growth and remaining inflation risks that could require additional firming."
+2007-03-21 00:00:00,2,The stance is mildly hawkish as the Committee maintains the policy rate and highlights persistent inflation risks due to high resource utilization.
+2007-05-09 00:00:00,2,The statement maintains an unchanged restrictive rate while highlighting persistent inflation risks and keeping the predominant concern on inflation failing to moderate.
+2007-06-18 00:00:00,2,"The statement maintains the current rate while highlighting ongoing inflation risks and resource utilization as the primary concern, suggesting a slight hawkish bias."
+2007-08-07 00:00:00,2,The Committee kept rates steady while emphasizing that its predominant concern remains the risk of inflation failing to moderate.
+2007-08-10 00:00:00,-3,"The statement announces emergency liquidity provisions and discount window access to address financial market dislocations, signaling easing measures despite keeping the target rate at 5-1/4 percent."
+2007-08-17 00:00:00,-3,"The statement highlights deteriorating financial market conditions, increased downside risks to growth, and readiness to act, signaling a leaning toward monetary easing."
+2007-09-18 00:00:00,-3,The Fed delivered an aggressive 50 basis point rate cut to counteract tighter credit conditions and financial market disruptions.
+2007-10-31 00:00:00,-2,"The Committee lowered the fed funds rate by 25 basis points for the second consecutive meeting to cushion against financial market disruptions, though it maintained caution regarding lingering inflation risks from energy and commodities."
+2007-12-11 00:00:00,-2,"The Committee lowered the federal funds rate by 25 basis points in response to slowing growth and financial market strains, reflecting an easing bias."
+2008-01-22 00:00:00,-4,A large 75 basis point rate cut combined with concerns over a weakening economic outlook and downside risks indicates a strongly dovish policy stance.
+2008-01-30 00:00:00,-3,The Fed delivered a significant 50 basis point rate cut and signaled readiness to take further timely action to address downside economic risks.
+2008-03-11 00:00:00,-4,"The statement announces aggressive emergency liquidity facilities, including a $200 billion securities lending program and expanded swap lines to address severe funding pressures."
+2008-03-18 00:00:00,-4,A aggressive 75 basis point rate cut combined with acknowledgment of a severely weakened economic outlook reflects a strongly dovish monetary policy stance.
+2008-04-30 00:00:00,-3,The Committee lowered the fed funds rate by 25 basis points and acknowledged ongoing economic weakness and financial market stress.
+2008-06-25 00:00:00,1,The statement holds rates steady while highlighting rising inflation upside risks and commodity price pressures alongside ongoing growth concerns.
+2008-08-05 00:00:00,0,"The statement balances downside growth risks with significant concerns about elevated inflation while holding rates steady, resulting in a neutral stance."
+2008-09-16 00:00:00,-1,"The statement holds rates steady while acknowledging significant financial strains and weakening labor markets, but balances these concerns by noting that inflation remains high and uncertain."
+2008-10-08 00:00:00,-4,The statement announces a coordinated 50 basis point rate cut alongside other global central banks to combat severe financial turmoil and slowing economic activity.
+2008-10-29 00:00:00,-5,The Fed enacted a large 50 basis point emergency rate cut and highlighted severe downside risks to economic growth and financial turmoil.
+2008-12-16 00:00:00,-5,"The statement announces aggressive easing with zero interest rates, large-scale asset purchases, and emergency credit facilities to combat severe economic deterioration."
+2009-01-28 00:00:00,-5,"The statement maintains near-zero rates, signals exceptionally low rates for an extended period, and commits to aggressive unconventional easing through large-scale asset purchases and credit facilities to combat severe economic weakness."
+2009-03-18 00:00:00,-5,"The statement announces zero interest rates, aggressive quantitative easing with massive asset purchases, and a commitment to use all available tools to combat a severe economic contraction."
+2009-04-29 00:00:00,-5,"The statement maintains a zero-percent interest rate, promises exceptionally low rates for an extended period, and commits to massive quantitative easing through large-scale asset purchases to combat economic contraction."
+2009-06-24 00:00:00,-4,The Committee maintains near-zero rates and large-scale asset purchases while emphasizing ongoing economic weakness and subdued inflation.
+2009-08-12 00:00:00,-4,"The statement maintains near-zero rates, ongoing quantitative easing through massive asset purchases, and emphasizes weak economic activity and subdued inflation."
+2009-09-23 00:00:00,-4,"The Committee maintains near-zero rates, promises exceptionally low rates for an extended period, and continues massive asset purchases to support recovery."
+2009-11-04 00:00:00,-4,"The Committee maintains near-zero rates, ongoing large-scale asset purchases, and explicitly anticipates exceptionally low rates for an extended period to combat weak economic activity and subdued inflation."
+2009-12-16 00:00:00,-3,"The Committee maintains the policy rate near zero and expects exceptionally low rates for an extended period, while continuing large-scale asset purchases."
+2010-01-27 00:00:00,-3,"The Committee maintains near-zero rates for an extended period, points to subdued inflation from resource slack, and continues large-scale asset purchases."
+2010-03-16 00:00:00,-3,The statement maintains the zero-interest-rate policy for an extended period and highlights subdued inflation and ongoing economic slack.
+2010-04-28 00:00:00,-3,The statement maintains near-zero rates and pledges exceptionally low rates for an extended period due to subdued inflation and persistent resource slack.
+2010-05-09 00:00:00,-4,The reestablishment of temporary U.S. dollar liquidity swap facilities represents aggressive emergency support to ease significant strains in short-term funding markets.
+2010-06-23 00:00:00,-3,"The statement highlights ongoing economic headwinds, contracting bank lending, and subdued inflation, while committing to exceptionally low interest rates for an extended period."
+2010-08-10 00:00:00,-3,"The statement highlights a slowing recovery, subdued inflation, and commits to exceptionally low rates for an extended period alongside reinvestment of securities to support the economy."
+2010-09-21 00:00:00,-3,"The statement highlights a slowing recovery, subdued inflation, and explicitly signals preparedness to provide additional accommodation."
+2010-11-03 00:00:00,-4,The FOMC announced a significant asset purchase program of $600 billion in quantitative easing and reiterated a commitment to exceptionally low interest rates for an extended period to combat slow recovery and low inflation.
+2010-12-14 00:00:00,-4,"The statement maintains an extremely accommodative stance through zero rates, forward guidance for an extended period, and a massive ongoing asset purchase program (QE2) to combat high unemployment and falling inflation."
+2011-01-26 00:00:00,-4,The statement maintains aggressive easing with ongoing asset purchases and a commitment to exceptionally low interest rates due to slow recovery and low inflation.
+2011-03-15 00:00:00,-3,The statement maintains a highly accommodative stance through ongoing asset purchases (QE2) and a commitment to exceptionally low interest rates for an extended period to support the recovery.
+2011-04-27 00:00:00,-3,The statement maintains an exceptionally low federal funds rate and continues large-scale asset purchases to support a moderate recovery with subdued inflation.
+2011-06-22 00:00:00,-3,The statement highlights weaker-than-anticipated growth and labor market indicators while maintaining exceptionally low rates for an extended period.
+2011-08-09 00:00:00,-3,"The statement highlights weaker growth, deteriorating labor conditions, and downside risks, while committing to exceptionally low interest rates through mid-2013 and keeping tools ready for further support."
+2011-09-21 00:00:00,-4,"The Committee implemented significant easing via Operation Twist, maintained zero-percent rates with explicit forward guidance through mid-2013, and cited ongoing weakness in labor markets and downside risks to growth."
+2011-11-02 00:00:00,-3,"The statement highlights labor market weakness, downside risks, and maintains exceptionally low rates through mid-2013 alongside maturity extension of securities to support recovery."
+2011-12-13 00:00:00,-3,"The statement maintains exceptionally low interest rates, ongoing balance sheet easing, and highlights significant downside risks to growth."
+2012-01-25 00:00:00,-4,The statement maintains a highly accommodative stance with zero-bound rates expected through late 2014 and ongoing balance sheet easing to support a weak recovery.
+2012-03-13 00:00:00,-4,"The statement maintains an exceptionally low federal funds rate through late 2014, continues balance sheet easing, and explicitly emphasizes a highly accommodative stance to support economic recovery."
+2012-04-25 00:00:00,-4,"The statement maintains an exceptionally low target rate through late 2014, continues maturity extension programs, and emphasizes maintaining a highly accommodative stance to support recovery."
+2012-06-20 00:00:00,-4,"The statement maintains a highly accommodative stance, pledges exceptionally low rates through late 2014, and continues maturity extension to lower long-term rates due to sluggish growth and downside risks."
+2012-08-01 00:00:00,-4,"The statement emphasizes a sluggish economic recovery, elevated unemployment, and downside risks, signaling a commitment to exceptionally low rates through late 2014 and ongoing accommodation."
+2012-09-13 00:00:00,-4,The Committee announced aggressive easing measures including open-ended MBS purchases and extended low-rate guidance to support a weak labor market.
+2012-10-24 00:00:00,-4,"The statement maintains aggressive easing through ongoing MBS purchases, an $85 billion monthly pace of longer-term asset expansion, and forward guidance committing to exceptionally low rates through mid-2015 to combat slow employment growth and downside risks."
+2012-12-12 00:00:00,-4,"The statement maintains aggressive easing measures, including large-scale open-ended asset purchases and explicit low-rate thresholds to support the economic recovery."
+2013-01-30 00:00:00,-4,The statement maintains aggressive quantitative easing and an exceptionally low federal funds rate tied to explicit threshold conditions to support a struggling economic recovery.
+2013-03-20 00:00:00,-4,"The statement maintains open-ended large-scale asset purchases, zero-bound interest rates, and explicit forward guidance committing to a highly accommodative stance for a considerable time."
+2013-05-01 00:00:00,-4,"The statement maintains a highly accommodative stance through large-scale asset purchases, zero interest rate guidance tied to explicit thresholds, and a commitment to maintain ease for a considerable time."
+2013-06-19 00:00:00,-3,The statement maintains large-scale asset purchases and pledges to keep the federal funds rate exceptionally low for a considerable time to support the recovery.
+2013-07-31 00:00:00,-3,The statement maintains aggressive easing via large asset purchases and a zero-interest-rate policy tied to explicit unemployment and inflation thresholds.
+2013-09-18 00:00:00,-3,The Committee is maintaining large-scale asset purchases and keeping rates near zero while emphasizing the need for continued policy accommodation.
+2013-10-30 00:00:00,-3,The statement maintains quantitative easing and zero-bound interest rates with forward guidance explicitly promising a highly accommodative stance for a considerable time.
+2013-12-18 00:00:00,-1,"The Committee announced a modest taper of asset purchases due to labor market improvements, but heavily emphasized maintaining an exceptionally low fed funds rate and a highly accommodative policy stance for a considerable time."
+2014-01-29 00:00:00,-2,"The statement announces a tapering of asset purchases due to improving labor markets, but strongly maintains a highly accommodative stance with exceptionally low rates for a considerable time."
+2014-03-19 00:00:00,-1,"The statement maintains a highly accommodative stance with low rates and ongoing policy support, despite continuing the tapering of asset purchases."
+2014-04-30 00:00:00,-2,"The statement maintains a highly accommodative stance with low rates and ongoing policy support, though it continues a measured tapering of asset purchases."
+2014-06-18 00:00:00,-2,"The statement maintains a highly accommodative policy stance with low rates and ongoing asset purchases, despite tapering."
+2014-07-30 00:00:00,-1,"The statement reduces the pace of asset purchases due to progress, but maintains a generally dovish stance with low rates expected for a considerable time and references to ongoing policy accommodation."
+2014-09-17 00:00:00,-1,"The statement reduces the pace of asset purchases due to labor market progress, but explicitly maintains a highly accommodative policy stance and zero interest rates for a considerable time."
+2014-10-29 00:00:00,-1,"The statement acknowledges improving economic and labor market conditions while ending asset purchases, but maintains a dovish stance by pledging to keep the federal funds rate exceptionally low for a considerable time."
+2014-12-17 00:00:00,-1,The statement maintains zero-bound rates and patient guidance while acknowledging moderate economic growth and below-target inflation.
+2015-01-28 00:00:00,-1,"The statement maintains an accommodative zero-rate policy and expresses patience regarding normalization, though it acknowledges solid economic growth and improving labor markets."
+2015-03-18 00:00:00,-2,"The statement maintains zero-bound rates and forward guidance pointing to gradual tightening, offset by acknowledgments of below-target inflation and ongoing policy accommodation."
+2015-04-29 00:00:00,-2,The statement maintains the zero-to-quarter-percent rate target and emphasizes continued policy accommodation due to transitory economic softness and low inflation.
+2015-06-17 00:00:00,-2,The statement maintains near-zero interest rates and ongoing policy accommodation while signaling patience before starting to raise rates.
+2015-07-29 00:00:00,-1,The statement maintains the zero-to-quarter-percent rate range and signals that policy will remain accommodative even after economic goals are met.
+2015-09-17 00:00:00,-1,"The statement maintains an accommodative zero-rate stance while citing global headwinds and below-target inflation, though it notes steady domestic economic progress."
+2015-10-28 00:00:00,1,"The statement maintains an accommodative stance with near-zero rates, but actively lays the groundwork for a potential rate hike by signaling it needs confidence on inflation returning to 2 percent and further labor market improvement."
+2015-12-16 00:00:00,2,"The Committee raised interest rates for the first time in years due to labor market improvements, but signaled that future hikes would be only gradual."
+2016-01-27 00:00:00,-1,"The statement maintains an accommodative stance with low rates and gradual normalization expectations, while noting inflation running below the 2 percent target."
+2016-03-16 00:00:00,1,The statement acknowledges solid labor market gains and rising inflation while maintaining an accommodative stance with expectations of only gradual rate increases.
+2016-04-27 00:00:00,1,The statement maintains low rates and an accommodative stance while acknowledging improved labor markets and anticipating gradual rate increases.
+2016-06-15 00:00:00,-1,"The statement maintains an accommodative stance and highlights low inflation and a slowing labor market, pointing to only gradual future rate increases."
+2016-07-27 00:00:00,-1,"The statement maintains low rates and an accommodative stance while noting inflation below target, though acknowledging a stronger labor market and diminished risks."
+2016-09-21 00:00:00,1,The statement notes that the case for a rate hike has strengthened while maintaining current rates and signaling only gradual future increases.
+2016-11-02 00:00:00,1,"Rates were held steady, but the statement signaled that the case for a rate increase had continued to strengthen."
+2016-12-14 00:00:00,1,"The Committee raised the fed funds rate by 25 basis points citing labor market strengthening, but signaled that future hikes will be gradual and policy remains accommodative."
+2017-02-01 00:00:00,1,The statement highlights a strengthening labor market and moderate economic growth while noting that policy remains accommodative and future rate increases will be gradual.
+2017-03-15 00:00:00,2,"The Committee raised the target interest rate and noted strengthening economic conditions, while signaling continued gradual tightening."
+2017-05-03 00:00:00,1,The statement maintains steady rates and an accommodative stance while expecting gradual rate increases as the economy grows.
+2017-06-14 00:00:00,1,The Committee raised the target interest rate while noting solid economic growth and a strengthening labor market.
+2017-07-26 00:00:00,1,"The statement maintains steady rates and acknowledges below-target inflation, but signals future gradual rate hikes and upcoming balance sheet normalization."
+2017-09-20 00:00:00,1,"The statement maintains steady rates and acknowledges below-target inflation, but signals ongoing gradual rate hikes and the initiation of balance sheet normalization."
+2017-11-01 00:00:00,1,"The statement highlights a strengthening labor market and expects gradual rate hikes, though policy remains accommodative while inflation runs slightly below target."
+2017-12-13 00:00:00,2,"The Committee raised interest rates and noted a strengthening labor market, while acknowledging inflation is still running slightly below their target."
+2018-01-31 00:00:00,1,"The statement highlights a strong economy and anticipates further gradual rate increases, though it acknowledges inflation running below 2 percent."
+2018-03-21 00:00:00,1,The statement announces a modest rate hike while continuing to describe the overall monetary policy stance as accommodative.
+2018-05-02 00:00:00,1,"The statement highlights a strong economy and labor market while signaling expectations for further gradual rate increases, leaning slightly hawkish."
+2018-06-13 00:00:00,2,The Committee raised the target interest rate and signaled further gradual increases amid a strengthening economy and inflation near 2 percent.
+2018-08-01 00:00:00,1,"The statement highlights strong economic growth and a tight labor market while signaling continued gradual rate increases, leaning slightly hawkish despite holding rates steady."
+2018-09-26 00:00:00,2,The Committee raised interest rates and signaled expectations for further gradual increases amid strong economic growth and a robust labor market.
+2018-11-08 00:00:00,1,The statement highlights a strong economy and labor market while explicitly signaling expectations for further gradual rate increases.
+2018-12-19 00:00:00,2,The Committee raised the fed funds rate and signaled expectations for some further gradual increases amid strong economic growth.
+2019-01-30 00:00:00,-1,The statement highlights a solid economy and strong labor market but explicitly adopts a patient stance on future rate adjustments due to muted inflation pressures and global developments.
+2019-03-20 00:00:00,-1,The statement maintains interest rates while emphasizing muted inflation pressures and pledging to be patient regarding future adjustments.
+2019-05-01 00:00:00,-1,The statement maintains steady rates while citing muted inflation pressures and patience regarding future adjustments.
+2019-06-19 00:00:00,-1,"The statement maintains steady rates while highlighting muted inflation pressures and increased uncertainties, signaling a slight tilt toward potential future easing."
+2019-07-31 00:00:00,-2,"The Committee lowered the federal funds rate and cited muted inflation pressures, reflecting a moderately accommodative policy stance."
+2019-09-18 00:00:00,-1,"The Committee lowered the federal funds rate due to muted inflation pressures and global developments, reflecting a mild easing bias."
+2019-10-11 00:00:00,0,The statement outlines purely technical operations to ensure reserve abundance and explicitly states it does not represent a change in the monetary policy stance.
+2019-10-30 00:00:00,-1,"The Committee lowered the federal funds rate due to muted inflation pressures and global uncertainties, reflecting a slightly easing bias."
+2019-12-11 00:00:00,0,"The statement describes a balanced economy with steady growth and inflation running slightly below target, leading the Committee to maintain rates and judge the current stance as appropriate."
+2020-01-29 00:00:00,0,"The statement describes steady economic conditions and explicitly judges the current policy stance as appropriate, reflecting a neutral and balanced monetary-policy outlook."
+2020-03-03 00:00:00,-3,The FOMC delivered a decisive half-percentage-point rate cut and signaled readiness to provide further policy support in response to emerging coronavirus risks.
+2020-03-15 00:00:00,-5,The Committee aggressively eased policy by cutting rates to near zero and announcing massive asset purchases to combat coronavirus disruptions.
+2020-03-23 00:00:00,-5,"The statement announces aggressive emergency easing measures, including open-ended asset purchases, repo operations, and a zero-to-bound federal funds rate to support the economy."
+2020-04-29 00:00:00,-5,"The statement signals maximum monetary easing through zero-bound interest rates, large-scale asset purchases, and emergency lending measures to combat severe pandemic-induced economic disruption."
+2020-06-10 00:00:00,-4,"The statement maintains near-zero interest rates, commits to ongoing asset purchases, and pledges aggressive support to counter severe economic strains from the pandemic."
+2020-07-29 00:00:00,-4,"The statement maintains near-zero rates, promises aggressive and sustained asset purchases, and emphasizes severe downside risks from the pandemic requiring ongoing monetary support."
+2020-09-16 00:00:00,-4,"The statement maintains near-zero interest rates, promises aggressive quantitative easing, and explicitly commits to an accommodative stance aiming for inflation to exceed 2 percent to support the pandemic-hit economy."
+2020-11-05 00:00:00,-4,"The statement maintains near-zero interest rates, promises aggressive quantitative easing, and commits to keeping policy accommodative until inflation moderately exceeds 2 percent to combat pandemic-related economic hardship."
+2020-12-16 00:00:00,-4,"The statement maintains near-zero interest rates, large-scale asset purchases, and a commitment to accommodative policy until inflation averages 2 percent and maximum employment is reached."
+2021-01-27 00:00:00,-4,"The statement maintains near-zero interest rates, aggressive asset purchases, and a commitment to a highly accommodative stance to support the pandemic-hit economy."
+2021-03-17 00:00:00,-4,"The statement maintains near-zero rates, large-scale asset purchases, and a commitment to keep policy accommodative until employment and inflation targets are fully met."
+2021-04-28 00:00:00,-4,"The statement maintains near-zero interest rates, ongoing large-scale asset purchases, and a commitment to a highly accommodative policy stance until employment and inflation targets are met."
+2021-06-16 00:00:00,-4,"The statement maintains near-zero interest rates, ongoing asset purchases, and explicit commitments to keep policy highly accommodative until inflation averages 2 percent and maximum employment is reached."
+2021-07-28 00:00:00,-3,"The statement maintains near-zero interest rates, ongoing asset purchases, and explicitly promises to maintain an accommodative stance until employment and inflation targets are met."
+2021-09-22 00:00:00,-1,"The statement maintains an accommodative stance with near-zero rates and ongoing asset purchases, though it notes that tapering may soon be warranted if progress continues."
+2021-11-03 00:00:00,-2,"While the statement announces the beginning of asset purchase tapering, it maintains an overall accommodative stance with near-zero interest rates and views elevated inflation as largely transitory."
+2021-12-15 00:00:00,-1,"The policy rate remains near zero and financial conditions are described as accommodative, though asset purchases are being tapered due to progress on inflation and employment."
+2022-01-26 00:00:00,3,The statement signals an imminent end to quantitative easing and upcoming rate hikes due to high inflation and a strong labor market.
+2022-03-16 00:00:00,3,"The Committee raised interest rates, signaled ongoing rate increases, and announced plans to reduce its balance sheet to address elevated inflation."
+2022-05-04 00:00:00,3,"The statement announces a rate hike, signals ongoing increases, and outlines plans to reduce the balance sheet due to elevated inflation."
+2022-06-15 00:00:00,4,"The statement announces a 50-basis-point rate hike, continued balance sheet reduction, and emphasizes strong commitment to combating elevated inflation."
+2022-07-27 00:00:00,3,The Committee raised the target interest rate and anticipates ongoing increases to combat elevated inflation.
+2022-09-21 00:00:00,3,"The statement announces a rate hike to 3-3/4 percent, anticipates ongoing increases, and emphasizes strong commitment to returning inflation to its 2 percent objective."
+2022-11-02 00:00:00,3,"The statement announces another rate hike, emphasizes high inflation risks, and signals that ongoing increases remain appropriate to achieve a sufficiently restrictive stance."
+2022-12-14 00:00:00,3,The Committee raised interest rates and signaled that ongoing increases will be appropriate to combat elevated inflation.
+2023-02-01 00:00:00,3,The Committee raised the target interest rate and signaled that ongoing increases remain appropriate to combat elevated inflation.
+2023-03-22 00:00:00,2,"The statement announces a rate hike and anticipates additional policy firming due to elevated inflation, while acknowledging tighter credit conditions."
+2023-05-03 00:00:00,2,The Committee raised the fed funds rate and left the door open to additional policy firming while emphasizing its commitment to returning inflation to 2 percent.
+2023-06-14 00:00:00,2,"Rates were held steady while acknowledging robust growth and elevated inflation, alongside an explicit retention of potential future policy firming."
+2023-07-26 00:00:00,3,The Committee raised the target interest rate and emphasized its strong commitment to returning elevated inflation to its 2 percent objective.
+2023-09-20 00:00:00,2,"The statement maintains interest rates while explicitly highlighting elevated inflation, ongoing risks, and the potential need for additional policy firming."
+2023-11-01 00:00:00,2,The statement maintains the federal funds rate while explicitly highlighting ongoing inflation risks and leaving the door open for additional policy firming.
+2023-12-13 00:00:00,1,The statement maintains high rates and leaves the door open for additional policy firming while acknowledging that inflation remains elevated.
+2024-01-31 00:00:00,2,The statement maintains high interest rates and explicitly states that rate cuts are inappropriate until there is greater confidence in inflation returning to 2 percent.
+2024-03-20 00:00:00,2,The statement maintains high interest rates and explicitly states that rate cuts are inappropriate until there is greater confidence in sustainable inflation decline.
+2024-05-01 00:00:00,2,"The statement maintains a restrictive policy rate and highlights a lack of further progress on inflation, signaling that cuts are inappropriate until confidence grows."
+2024-06-12 00:00:00,2,The statement maintains high interest rates and notes that reducing rates is inappropriate until there is greater confidence in sustainable inflation progress.
+2024-07-31 00:00:00,2,"The statement maintains a restrictive policy rate while acknowledging inflation progress, but explicitly signals that rate cuts are inappropriate until greater confidence in reaching the 2 percent target is achieved."
+2024-09-18 00:00:00,-3,The Committee lowered the federal funds rate by a significant half percentage point in light of progress on inflation and slowing job gains.
+2024-11-07 00:00:00,-1,The Committee enacted a modest 25 basis point rate cut while describing growth as solid and inflation as only somewhat elevated.
+2024-12-18 00:00:00,-1,"The statement announces a modest 25 basis point rate cut reflecting easing labor markets and cooling inflation, leaning slightly dovish while maintaining a balanced outlook."
+2025-01-29 00:00:00,0,"The statement describes a solid economy and leaves rates unchanged while noting that risks to goals are in balance, reflecting a neutral stance."
+2025-03-19 00:00:00,-1,"The statement maintains the current policy rate while announcing a slowdown in the pace of balance sheet runoff, signaling a slightly less restrictive stance amid increased economic uncertainty."
+2025-05-07 00:00:00,0,"The statement maintains the current rate and balances risks to both employment and inflation, reflecting a neutral policy stance."
+2025-06-18 00:00:00,0,"The statement describes a stable economy with solid growth and ongoing balance-of-risks monitoring while holding rates steady, reflecting a neutral monetary policy stance."
+2025-07-30 00:00:00,0,"The statement describes moderate growth, solid labor markets, and somewhat elevated inflation while maintaining rates unchanged and balancing risks to both sides of the dual mandate."
+2025-09-17 00:00:00,-2,The Committee lowered the federal funds rate by 25 basis points and noted rising downside risks to employment.
+2025-10-29 00:00:00,-1,The Committee implemented a modest rate cut and acknowledged rising downside risks to employment while noting inflation remains somewhat elevated.
+2025-12-10 00:00:00,-2,The statement announces a 25-basis-point rate cut driven by rising downside risks to employment and slowing job gains.
+2026-01-28 00:00:00,0,"The statement describes solid growth, somewhat elevated inflation, and steady policy with a balanced dual-mandate focus."
+2026-03-18 00:00:00,0,"The statement describes a balanced economic view with steady growth, persistent inflation, and low job gains, leading to an unchanged policy rate and neutral forward guidance."
+2026-04-29 00:00:00,0,"The statement balances solid economic growth and elevated inflation against low job gains and geopolitical uncertainty, resulting in a decision to maintain the current rate range."
+2026-06-17 00:00:00,0,"The statement maintains the current rate, acknowledges solid growth and elevated inflation, and expresses a balanced stance without signaling imminent easing or tightening."
+2026-07-29 00:00:00,2,The stance is mildly hawkish as the FOMC kept rates steady despite inflation remaining elevated and three members dissenting in favor of a rate hike.
+2026-09-16 00:00:00,2,"The Committee raised interest rates by a quarter point and noted that inflation remains elevated, signaling a moderately hawkish stance."
+2026-10-28 00:00:00,2,"The statement maintains rates at a restrictive level while noting elevated inflation and strong economic activity, with two officials dissenting in favor of a rate hike."
